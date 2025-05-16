@@ -1,10 +1,6 @@
 # Common Good Technologies
 
-A Public Benefit Corporation building revolutionary open-source tools that democratize access to systems traditionally controlled by gatekeepers and wealth.
-
-## Our Mission
-
-We build revolutionary open-source tools that democratize access to systems traditionally controlled by gatekeepers and wealth. We operate through a radically different organizational model that proves ethical business practices and commercial success are not just compatible, but mutually reinforcing.
+A Public Benefit Corporation building revolutionary open-source tools that democratize access to systems traditionally controlled by gatekeepers and wealth. We operate through a radically different organizational model that proves ethical business practices and commercial success are not just compatible, but mutually reinforcing.
 
 ## Current Projects
 
