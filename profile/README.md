@@ -27,7 +27,7 @@ This repository serves as the central hub for Common Good Technologies' developm
 
 ## Contact
 
-- Email: info@commongoodtech.org
+- Email: commongoodtech@pm.me
 - Website: www.commongoodtech.org
 
 ## License
